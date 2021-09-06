@@ -38,7 +38,7 @@ function terms.kitty.build(colors)
     {"color1  %s",  colors.n.red};
     {"color2  %s",  colors.b.green};
     {"color3  %s",  colors.n.yellow};
-    {"color4  %s",  colors.n.blue};
+    {"color4  %s",  colors.b.blue};
     {"color5  %s",  colors.n.magenta};
     {"color6  %s",  colors.fg2};
     {"color7  %s",  colors.fg2};
